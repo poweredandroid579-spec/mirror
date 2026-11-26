@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mirror</string>
+    <string name="a11y_desc">Permite que o Mirror toque e digite neste telefone quando você o controla pelo site.</string>
+</resources>
